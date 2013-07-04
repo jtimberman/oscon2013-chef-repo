@@ -14,10 +14,13 @@ The laptop should be able to run a virtual machine imported from an instructor p
 2. A programmer's text editor (vim, emacs, etc)
 3. Chef (http://www.opscode.com/chef/install.sh)
 
+Download the virtual machine images for the appropriate tool, VirtualBox or VMware (tested on Fusion, but it should work on Workstation or Player, too).
+
+* [VirtualBox Image](https://opscode-chef-training.s3.amazonaws.com/ubuntu-12-packer-vbox.zip)
+* [VMware Image](https://opscode-chef-training.s3.amazonaws.com/ubuntu-12-packer-vmware.zip)
+
 Alternative installations and platforms may work with or without modification from the prepared material from the tutorial. Due to time constraints we will be unable to troubleshoot individual local configuration problems.
 
 Students must complete setup prior to the tutorial, as we do not know what the quality and capability of the conference network will be.
 
 Students who bring a laptop that can't run a VM will be able to follow along in part, though not all the exercises will work as described. 
-
-
