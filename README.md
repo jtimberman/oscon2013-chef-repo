@@ -2,25 +2,38 @@ Welcome to OSCON 2013!
 
 # Tutorial
 
-This tutorial is Systems Management with Chef. This tutorial will be instructor led, with examples that will fill out this repository with more data.
+This tutorial is Systems Management with Chef. This tutorial will be
+instructor led, with examples that will fill out this repository with
+more data.
 
 # Requirements
 
-All students must bring a laptop if they wish to participate in the hands on exercises.
+All students must bring a laptop if they wish to participate in the
+hands on exercises.
 
-The laptop should be able to run a virtual machine imported from an instructor provided VMDK (Ubuntu 12.04). Students are welcome to preload their own VM instead, but it must have the following installed:
+The laptop should be able to run a virtual machine imported from an
+instructor provided VMDK (Ubuntu 12.04). Students are welcome to
+preload their own VM instead, but it must have the following
+installed:
 
-1. Git
+1. Git version control system
 2. A programmer's text editor (vim, emacs, etc)
 3. Chef (http://www.opscode.com/chef/install.sh)
 
-Download the virtual machine images for the appropriate tool, VirtualBox or VMware (tested on Fusion, but it should work on Workstation or Player, too).
+Download the virtual machine images for the appropriate tool,
+VirtualBox or VMware (tested on Fusion, but it should work on
+Workstation or Player, too).
 
 * [VirtualBox Image](https://opscode-chef-training.s3.amazonaws.com/ubuntu-12-packer-vbox.zip)
 * [VMware Image](https://opscode-chef-training.s3.amazonaws.com/ubuntu-12-packer-vmware.zip)
 
-Alternative installations and platforms may work with or without modification from the prepared material from the tutorial. Due to time constraints we will be unable to troubleshoot individual local configuration problems.
+Alternative installations and platforms may work with or without
+modification from the prepared material from the tutorial. Due to time
+constraints we will be unable to troubleshoot individual local
+configuration problems.
 
-Students must complete setup prior to the tutorial, as we do not know what the quality and capability of the conference network will be.
+Students must complete setup prior to the tutorial, as we do not know
+what the quality and capability of the conference network will be.
 
-Students who bring a laptop that can't run a VM will be able to follow along in part, though not all the exercises will work as described. 
+Students who bring a laptop that can't run a VM will be able to follow
+along in part, though not all the exercises may work as described.
